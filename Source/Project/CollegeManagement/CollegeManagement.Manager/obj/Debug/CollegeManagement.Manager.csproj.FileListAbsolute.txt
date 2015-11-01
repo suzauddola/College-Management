@@ -1,0 +1,12 @@
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Manager\bin\Debug\CollegeManagement.Manager.dll.config
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Manager\bin\Debug\CollegeManagement.Manager.dll
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Manager\bin\Debug\CollegeManagement.Manager.pdb
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Manager\bin\Debug\CollegeManagement.Model.dll
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Manager\bin\Debug\EntityFramework.dll
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Manager\bin\Debug\CollegeManagement.Model.pdb
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Manager\bin\Debug\EntityFramework.xml
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Manager\obj\Debug\CollegeManagement.Manager.csprojResolveAssemblyReference.cache
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Manager\obj\Debug\CollegeManagement.Manager.dll
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Manager\obj\Debug\CollegeManagement.Manager.pdb

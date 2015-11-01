@@ -1,0 +1,10 @@
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Model\bin\Debug\CollegeManagement.Model.dll.config
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Model\bin\Debug\CollegeManagement.Model.dll
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Model\bin\Debug\CollegeManagement.Model.pdb
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Model\bin\Debug\EntityFramework.dll
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Model\bin\Debug\EntityFramework.xml
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Model\obj\Debug\CollegeManagement.Model.csprojResolveAssemblyReference.cache
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Model\obj\Debug\CollegeManagement.Model.dll
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.Model\obj\Debug\CollegeManagement.Model.pdb

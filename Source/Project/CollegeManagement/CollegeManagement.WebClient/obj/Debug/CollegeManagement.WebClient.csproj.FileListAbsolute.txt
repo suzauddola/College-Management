@@ -1,0 +1,10 @@
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.WebClient\bin\CollegeManagement.WebClient.dll.config
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.WebClient\bin\CollegeManagement.WebClient.dll
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.WebClient\bin\CollegeManagement.WebClient.pdb
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.WebClient\bin\EntityFramework.dll
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.WebClient\bin\EntityFramework.xml
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.WebClient\obj\Debug\CollegeManagement.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.WebClient\obj\Debug\CollegeManagement.WebClient.dll
+C:\Users\Suza\documents\visual studio 2013\Projects\CollegeManagement\CollegeManagement.WebClient\obj\Debug\CollegeManagement.WebClient.pdb
